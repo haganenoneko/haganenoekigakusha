@@ -1,13 +1,10 @@
-title: Oscailte
-subtitle: A powerful, clean, and responsive Jekyll theme. 
-author: GitHub User
-email: your-email@example.com
-description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "oscailte"
-url: "https://coog.ie"
+title: haganenoekigakusha
+subtitle: A biologist's attempt at learning something about public health.
+author: Delbert Yip
+email: delbert124@gmail.com
+description: A biologist's attempt at learning something about public health. 
+baseurl: "haganenoekigakusha"
+url: "https://haganenoneko.github.io/haganenoekigakusha/"
 
 # Build settings
 show_excerpts: true
@@ -19,7 +16,7 @@ plugins:
 permalink: /blog/:year/:month/:day/:title/
 
 oscailte:
-  google_analytics: UA-36133007-3
+  #google_analytics: UA-36133007-3
   social:
     github: jekyll
     twitter: coog_ie
