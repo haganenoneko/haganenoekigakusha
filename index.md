@@ -5,11 +5,8 @@
 title: Home
 ---
 
-# Getting Started
+# Welcome
 
-Getting started with Oscailte is straightforward. Oscailte aims to work out-of-the-box
-with Jekyll and Github Pages, meaning it requires no manual plugin installation and
-doesn't require you to manually build your site before uploading it - just upload the raw
-Jekyll source and let Github Pages do the rest.
+...to my epidemiology/public health (epi/ph) learning blog. 
 
-Of course, you can always extend it with your own plugins and build steps as necessary.
+You can find the source code for the template, [oscailte](https://github.com/coogie/oscailte) at GitHub. 
